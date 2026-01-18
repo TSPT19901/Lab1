@@ -1,2 +1,1 @@
-# WebNahMak
-Kalikkechkuch
+## Lab 1
